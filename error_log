@@ -1,0 +1,19 @@
+[11-Jul-2012 14:36:40] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home/u472837909/public_html/gestoriautonomos/protected/views/users/view.php on line 17
+[11-Jul-2012 14:58:25] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/u472837909/public_html/gestoriautonomos/protected/config/main.php on line 92
+[12-Jul-2012 05:31:36] PHP Fatal error:  Call to a member function errorSummary() on a non-object in /home/u472837909/public_html/gestoriautonomos/protected/views/site/contact.php on line 21
+[12-Jul-2012 06:15:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 25
+[12-Jul-2012 06:42:04] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 27
+[12-Jul-2012 06:42:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 27
+[12-Jul-2012 06:42:51] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 27
+[12-Jul-2012 06:43:17] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 27
+[12-Jul-2012 06:47:37] PHP Fatal error:  Can't use method return value in write context in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 26
+[12-Jul-2012 06:48:05] PHP Fatal error:  Can't use method return value in write context in /home/u472837909/public_html/gestoriautonomos/protected/views/site/login.php on line 26
+[20-Jul-2012 04:59:40] PHP Parse error:  syntax error, unexpected '{' in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
+[20-Jul-2012 04:59:50] PHP Parse error:  syntax error, unexpected '{' in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
+[20-Jul-2012 05:04:09] PHP Fatal error:  Call to a member function getValidators() on a non-object in /home/u472837909/public_html/yii/framework/web/helpers/CHtml.php on line 1758
+[20-Jul-2012 05:04:13] PHP Fatal error:  Call to a member function getValidators() on a non-object in /home/u472837909/public_html/yii/framework/web/helpers/CHtml.php on line 1758
+[20-Jul-2012 05:04:52] PHP Fatal error:  Call to a member function getValidators() on a non-object in /home/u472837909/public_html/yii/framework/web/helpers/CHtml.php on line 1758
+[20-Jul-2012 05:11:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
+[20-Jul-2012 05:12:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
+[20-Jul-2012 05:16:43] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
+[20-Jul-2012 05:16:48] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/u472837909/public_html/gestoriautonomos/protected/controllers/SiteController.php on line 158
